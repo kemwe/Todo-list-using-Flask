@@ -4,12 +4,12 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Todolist" />
       <excludeFolder url="file://$MODULE_DIR$/todo" />
+      <excludeFolder url="file://$MODULE_DIR$/todoenv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (flaskintroduction) (3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Todo-list-using-Flask)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
-    <option name="projectConfiguration" value="pytest" />
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
   </component>
 </module>
